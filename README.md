@@ -1,5 +1,5 @@
 # HITSZ_C
-HITSZ C语言实验课
+HITSZ C语言实验课\n
 实验环境：CodeBlocks
 实验一：基本数据类型输入输出
 实验二：计算球的体积和表面积、三角形判断
